@@ -32,5 +32,24 @@
 <details>
 <summary><b>Profiling</b></summary>
 
+### /all-student
+#### Before
+![](/assets/profiling1_before.png)
+#### After
+![img.png](assets/profiling1_after.png)
+
+### /all-student-name
+#### Before
+![](/assets/profiling2_before.png)
+#### After
+![img.png](assets/profiling2_after.png)
+
+### /highest-gpa
+#### Before
+![](/assets/profiling3_before.png)
+#### After
+![img.png](assets/profiling3_after.png)
 
 </details>
+
+
